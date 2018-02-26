@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EMI Training.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>49372353618A609546A088ED57A4FA01C419DD5D</string>
+				<key>dateExpires</key>
+				<string>11/3/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>49372353618A609546A088ED57A4FA01C419DD5D</string>
+						<key>dateExpires</key>
+						<string>11/3/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8E9FA32Q2W</string>
+						<key>name</key>
+						<string>Lewis Hall</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>49372353618A609546A088ED57A4FA01C419DD5D</string>
+						<key>dateExpires</key>
+						<string>11/3/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManagerSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8E9FA32Q2W</string>
+						<key>name</key>
+						<string>Lewis Hall</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>49372353618A609546A088ED57A4FA01C419DD5D</string>
+						<key>dateExpires</key>
+						<string>11/3/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Reachability.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8E9FA32Q2W</string>
+						<key>name</key>
+						<string>Lewis Hall</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>49372353618A609546A088ED57A4FA01C419DD5D</string>
+						<key>dateExpires</key>
+						<string>11/3/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SVProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8E9FA32Q2W</string>
+						<key>name</key>
+						<string>Lewis Hall</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>49372353618A609546A088ED57A4FA01C419DD5D</string>
+						<key>dateExpires</key>
+						<string>11/3/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftyJSON.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8E9FA32Q2W</string>
+						<key>name</key>
+						<string>Lewis Hall</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8E9FA32Q2W.com.relinns.Emi-traning</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8E9FA32Q2W</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8E9FA32Q2W.com.relinns.Emi-traning</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>EMI Training.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>21425477-8959-4037-a8a7-64cf95f3fb1e</string>
+				<key>name</key>
+				<string>EMI training Adhoc profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8E9FA32Q2W</string>
+				<key>name</key>
+				<string>Lewis Hall</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

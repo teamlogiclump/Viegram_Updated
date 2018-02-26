@@ -1,0 +1,6 @@
+framework module Pods_Viegram {
+  umbrella header "Pods-Viegram-umbrella.h"
+
+  export *
+  module * { export * }
+}

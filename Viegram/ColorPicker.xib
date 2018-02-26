@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16G1036" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Color" customModule="Viegram" customModuleProvider="target">
+            <connections>
+                <outlet property="colorPicker" destination="zgS-E7-9P2" id="OBV-KG-Ahc"/>
+                <outlet property="selectedColorview" destination="Jfi-BF-lCP" id="amx-Kg-jhg"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Jfi-BF-lCP">
+                    <rect key="frame" x="165" y="71" width="44" height="44"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="W0m-6w-yOo"/>
+                        <constraint firstAttribute="width" constant="44" id="boo-SM-7rJ"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="22"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2bh-Gr-CGX">
+                    <rect key="frame" x="0.0" y="320" width="375" height="347"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <gestureRecognizers/>
+                    <connections>
+                        <outletCollection property="gestureRecognizers" destination="T43-74-s7K" appends="YES" id="jpO-zY-DS1"/>
+                    </connections>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="K9n-mk-mBT">
+                    <rect key="frame" x="0.0" y="120" width="50" height="200"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <gestureRecognizers/>
+                    <connections>
+                        <outletCollection property="gestureRecognizers" destination="7Lo-5D-EZe" appends="YES" id="R9E-rW-lJB"/>
+                    </connections>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zgS-E7-9P2" customClass="ColorPicker" customModule="Viegram" customModuleProvider="target">
+                    <rect key="frame" x="50" y="120" width="275" height="200"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="200" id="ZeG-Zk-KLm"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5Tp-PA-cnG">
+                    <rect key="frame" x="325" y="120" width="50" height="200"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <gestureRecognizers/>
+                    <connections>
+                        <outletCollection property="gestureRecognizers" destination="qRZ-Yd-L4V" appends="YES" id="z4b-iM-yjk"/>
+                    </connections>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Jfi-BF-lCP" firstAttribute="centerX" secondItem="zgS-E7-9P2" secondAttribute="centerX" id="6lM-Oz-ucF"/>
+                <constraint firstItem="K9n-mk-mBT" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="8wx-ur-MdQ"/>
+                <constraint firstItem="zgS-E7-9P2" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="120" id="CsY-dt-69y"/>
+                <constraint firstAttribute="trailing" secondItem="zgS-E7-9P2" secondAttribute="trailing" constant="50" id="G17-YP-6qk"/>
+                <constraint firstItem="2bh-Gr-CGX" firstAttribute="top" secondItem="K9n-mk-mBT" secondAttribute="bottom" id="TBi-Xy-vR1"/>
+                <constraint firstItem="zgS-E7-9P2" firstAttribute="leading" secondItem="K9n-mk-mBT" secondAttribute="trailing" id="VYs-Xp-OgT"/>
+                <constraint firstItem="2bh-Gr-CGX" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ZuS-qh-WfL"/>
+                <constraint firstItem="5Tp-PA-cnG" firstAttribute="top" secondItem="zgS-E7-9P2" secondAttribute="top" id="buL-zE-NQg"/>
+                <constraint firstItem="zgS-E7-9P2" firstAttribute="top" secondItem="Jfi-BF-lCP" secondAttribute="bottom" constant="5" id="csB-Dw-Xj1"/>
+                <constraint firstAttribute="trailing" secondItem="5Tp-PA-cnG" secondAttribute="trailing" id="fri-jB-ABc"/>
+                <constraint firstItem="2bh-Gr-CGX" firstAttribute="top" secondItem="zgS-E7-9P2" secondAttribute="bottom" id="i9d-IO-ft2"/>
+                <constraint firstAttribute="trailing" secondItem="2bh-Gr-CGX" secondAttribute="trailing" id="jnq-oQ-ajF"/>
+                <constraint firstItem="zgS-E7-9P2" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="50" id="kXe-ea-ZjO"/>
+                <constraint firstItem="5Tp-PA-cnG" firstAttribute="leading" secondItem="zgS-E7-9P2" secondAttribute="trailing" id="uo7-8W-agr"/>
+                <constraint firstAttribute="bottom" secondItem="2bh-Gr-CGX" secondAttribute="bottom" id="vq6-gt-CUC"/>
+                <constraint firstItem="2bh-Gr-CGX" firstAttribute="top" secondItem="5Tp-PA-cnG" secondAttribute="bottom" id="wDX-uE-yud"/>
+                <constraint firstItem="K9n-mk-mBT" firstAttribute="top" secondItem="zgS-E7-9P2" secondAttribute="top" id="zsJ-Bc-Un1"/>
+            </constraints>
+            <point key="canvasLocation" x="-265.5" y="270.5"/>
+        </view>
+        <tapGestureRecognizer id="T43-74-s7K">
+            <connections>
+                <action selector="cancelClicked:" destination="-1" id="Ddw-u1-O9l"/>
+            </connections>
+        </tapGestureRecognizer>
+        <tapGestureRecognizer id="cHL-z3-FtD">
+            <connections>
+                <action selector="cancelClicked:" destination="-1" id="C7I-5p-9Mn"/>
+            </connections>
+        </tapGestureRecognizer>
+        <tapGestureRecognizer id="qRZ-Yd-L4V">
+            <connections>
+                <action selector="dismissViewAction:" destination="-1" id="Msd-le-Ddp"/>
+            </connections>
+        </tapGestureRecognizer>
+        <tapGestureRecognizer id="7Lo-5D-EZe">
+            <connections>
+                <action selector="dismissViewAction:" destination="-1" id="Lib-C4-JWd"/>
+            </connections>
+        </tapGestureRecognizer>
+    </objects>
+</document>

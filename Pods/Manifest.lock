@@ -1,0 +1,98 @@
+PODS:
+  - AADraggableView (0.1.0)
+  - Alamofire (4.5.0)
+  - Crashlytics (3.8.6):
+    - Fabric (~> 1.6.3)
+  - DZNEmptyDataSet (1.8.1)
+  - Fabric (1.6.11)
+  - GoogleMaps/Base (2.4.0)
+  - GooglePlaces (2.4.0):
+    - GoogleMaps/Base (= 2.4.0)
+  - ImagePicker (2.0.0)
+  - IQKeyboardManager (5.0.6)
+  - JPVideoPlayer (2.3.2)
+  - JTProgressHUD (1.0.5)
+  - libwebp (0.6.0):
+    - libwebp/core (= 0.6.0)
+    - libwebp/dec (= 0.6.0)
+    - libwebp/demux (= 0.6.0)
+    - libwebp/dsp (= 0.6.0)
+    - libwebp/enc (= 0.6.0)
+    - libwebp/mux (= 0.6.0)
+    - libwebp/utils (= 0.6.0)
+    - libwebp/webp (= 0.6.0)
+  - libwebp/core (0.6.0):
+    - libwebp/webp
+  - libwebp/dec (0.6.0):
+    - libwebp/core
+  - libwebp/demux (0.6.0):
+    - libwebp/core
+  - libwebp/dsp (0.6.0):
+    - libwebp/core
+  - libwebp/enc (0.6.0):
+    - libwebp/core
+  - libwebp/mux (0.6.0):
+    - libwebp/core
+  - libwebp/utils (0.6.0):
+    - libwebp/core
+  - libwebp/webp (0.6.0)
+  - lottie-ios (1.5.2)
+  - MBProgressHUD (1.1.0)
+  - MMPlayerView (2.1.8)
+  - NohanaImagePicker (0.8.0)
+  - SDWebImage/Core (4.0.0)
+  - SDWebImage/WebP (4.0.0):
+    - libwebp
+    - SDWebImage/Core
+  - SKPhotoBrowser (4.0.1)
+  - SnapKit (3.2.0)
+  - SwiftyJSON (3.1.4)
+  - SwiftyNotifications (0.2)
+
+DEPENDENCIES:
+  - AADraggableView
+  - Alamofire (~> 4.4)
+  - Crashlytics
+  - DZNEmptyDataSet
+  - Fabric
+  - GooglePlaces
+  - ImagePicker
+  - IQKeyboardManager
+  - JPVideoPlayer (~> 2.3.2)
+  - JTProgressHUD
+  - lottie-ios
+  - MBProgressHUD (~> 1.1.0)
+  - MMPlayerView (~> 2.1.8)
+  - NohanaImagePicker (= 0.8.0)
+  - SDWebImage/WebP
+  - SKPhotoBrowser
+  - SnapKit (~> 3.2.0)
+  - SwiftyJSON
+  - SwiftyNotifications (~> 0.2)
+
+SPEC CHECKSUMS:
+  AADraggableView: 7a4529e3bfda25141e927c2bc7977406abbf1cc5
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Crashlytics: 95d05f4e4c19a771250c4bd9ce344d996de32bbf
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  GoogleMaps: 8436ab5d1c25e36915b2f7416d0c8e3fa2e76c61
+  GooglePlaces: aafe5990fa7951e98e078761bbdaaf236d7e0c65
+  ImagePicker: 81175d36c2852cb543cb4f5d6c19e28f3e8d90eb
+  IQKeyboardManager: 077b7f691dfa9d69db9cff66f2bed68ebfc02d9b
+  JPVideoPlayer: ab78da26eda9c2ba2a0084efb44594b9d0708754
+  JTProgressHUD: 7eb019487a92731c8716c15f19e94690cf35f644
+  libwebp: 1d5a07c2eb97f9c31bd5f154bb82efc0ea67c6a2
+  lottie-ios: 255a0e95973a5c4424e809d7a5c19f7384c73e84
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MMPlayerView: 83d0dc104919b7f5c844de6575d674299ecacdbb
+  NohanaImagePicker: 9bce16de8ca3f3114802c1266164773f48873c6f
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SKPhotoBrowser: 3a7c6fc02aa1620ab17253a47a49fafda46536e8
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwiftyNotifications: cc9405eccc57d4139fd1aac075ed77c8f43c8c17
+
+PODFILE CHECKSUM: 486fe3a671406e276ac7e233beadcf58002a33aa
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,861 @@
+
+/* Class = "UITextField"; placeholder = "@john doe"; ObjectID = "00X-ai-jgZ"; */
+"00X-ai-jgZ.placeholder" = "@john doe";
+
+/* Class = "UILabel"; text = "You will not be able to see who's viewed yor account"; ObjectID = "0Jb-j9-hrn"; */
+"0Jb-j9-hrn.text" = "You will not be able to see who's viewed yor account";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "0bX-4x-IX8"; */
+"0bX-4x-IX8.normalTitle" = "View";
+
+/* Class = "UINavigationItem"; title = "Options"; ObjectID = "0c3-Xx-Fdc"; */
+"0c3-Xx-Fdc.title" = "Options";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "0nb-nA-O1e"; */
+"0nb-nA-O1e.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0uj-38-hBY"; */
+"0uj-38-hBY.text" = "0";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "22C-UY-gLS"; */
+"22C-UY-gLS.text" = "Info";
+
+/* Class = "UILabel"; text = "Follow People"; ObjectID = "280-Cz-u7Q"; */
+"280-Cz-u7Q.text" = "Follow People";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "2Df-P9-3GV"; */
+"2Df-P9-3GV.text" = "John Doe";
+
+/* Class = "UILabel"; text = "8,500"; ObjectID = "2Nc-dv-hFY"; */
+"2Nc-dv-hFY.text" = "8,500";
+
+/* Class = "UILabel"; text = "Postion amongest those you're following"; ObjectID = "2kJ-kq-Tqf"; */
+"2kJ-kq-Tqf.text" = "Postion amongest those you're following";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "2yF-gV-YJS"; */
+"2yF-gV-YJS.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "382-Hh-OU9"; */
+"382-Hh-OU9.text" = "Edit Profile";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "3FR-V8-hkz"; */
+"3FR-V8-hkz.normalTitle" = "UPDATE";
+
+/* Class = "UINavigationItem"; title = "Change Password"; ObjectID = "3Hz-a1-YMd"; */
+"3Hz-a1-YMd.title" = "Change Password";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "3IG-WV-sPC"; */
+"3IG-WV-sPC.text" = "John Doe";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "3Nr-74-1ux"; */
+"3Nr-74-1ux.normalTitle" = "UPDATE";
+
+/* Class = "UILabel"; text = "Your Restricted followers will not see this post."; ObjectID = "3c9-9j-ch3"; */
+"3c9-9j-ch3.text" = "Your Restricted followers will not see this post.";
+
+/* Class = "UILabel"; text = "8500"; ObjectID = "476-kJ-sMP"; */
+"476-kJ-sMP.text" = "8500";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4KR-Wf-Lf3"; */
+"4KR-Wf-Lf3.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "4Zs-kP-nnm"; */
+"4Zs-kP-nnm.placeholder" = "New Password";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "4i4-Ux-wMh"; */
+"4i4-Ux-wMh.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "2 hrs ago"; ObjectID = "4jJ-io-usk"; */
+"4jJ-io-usk.text" = "2 hrs ago";
+
+/* Class = "UIButton"; normalTitle = "Followers Raking"; ObjectID = "4wt-jG-aex"; */
+"4wt-jG-aex.normalTitle" = "Followers Raking";
+
+/* Class = "UILabel"; text = "2 hours"; ObjectID = "50o-Vm-LIv"; */
+"50o-Vm-LIv.text" = "2 hours";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "5OZ-Sr-2fb"; */
+"5OZ-Sr-2fb.text" = "About";
+
+/* Class = "UINavigationItem"; title = "Post a photo"; ObjectID = "6DA-iN-tpV"; */
+"6DA-iN-tpV.title" = "Post a photo";
+
+/* Class = "UILabel"; text = "We just need your registered email address to send you a One Time Password (OTP) verification code"; ObjectID = "6OE-ik-Jhv"; */
+"6OE-ik-Jhv.text" = "We just need your registered email address to send you a One Time Password (OTP) verification code";
+
+/* Class = "UINavigationItem"; title = "Post a photo"; ObjectID = "6ck-D5-zgL"; */
+"6ck-D5-zgL.title" = "Post a photo";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "6i6-BO-zr8"; */
+"6i6-BO-zr8.normalTitle" = "View";
+
+/* Class = "UINavigationItem"; title = "Stats"; ObjectID = "6k2-y2-aAu"; */
+"6k2-y2-aAu.title" = "Stats";
+
+/* Class = "UILabel"; text = "This Month"; ObjectID = "6vE-1g-yGI"; */
+"6vE-1g-yGI.text" = "This Month";
+
+/* Class = "UILabel"; text = "25 Points"; ObjectID = "71K-gJ-8Nz"; */
+"71K-gJ-8Nz.text" = "25 Points";
+
+/* Class = "UILabel"; text = "@john doe"; ObjectID = "79S-jd-0f6"; */
+"79S-jd-0f6.text" = "@john doe";
+
+/* Class = "UIButton"; normalTitle = "REPOST"; ObjectID = "7Bq-cF-YgZ"; */
+"7Bq-cF-YgZ.normalTitle" = "REPOST";
+
+/* Class = "UILabel"; text = "8,500"; ObjectID = "7aC-g3-qzV"; */
+"7aC-g3-qzV.text" = "8,500";
+
+/* Class = "UINavigationItem"; title = "Stats"; ObjectID = "7i4-uD-nwd"; */
+"7i4-uD-nwd.title" = "Stats";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "7if-sz-5OH"; */
+"7if-sz-5OH.text" = "Amount";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "7r8-Zw-IB7"; */
+"7r8-Zw-IB7.text" = "0";
+
+/* Class = "UILabel"; text = "How Viegram Works"; ObjectID = "7zZ-ED-mhk"; */
+"7zZ-ED-mhk.text" = "How Viegram Works";
+
+/* Class = "UILabel"; text = "1."; ObjectID = "8Ou-RE-Pel"; */
+"8Ou-RE-Pel.text" = "1.";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "8WW-p1-hKe"; */
+"8WW-p1-hKe.text" = "20";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "8YA-Tt-pNv"; */
+"8YA-Tt-pNv.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "8zP-Fd-7oa"; */
+"8zP-Fd-7oa.text" = "John Doe";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "96j-2L-OWg"; */
+"96j-2L-OWg.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "9TW-wV-mdC"; */
+"9TW-wV-mdC.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Repost this photo to my timeline"; ObjectID = "9ar-4p-4MI"; */
+"9ar-4p-4MI.text" = "Repost this photo to my timeline";
+
+/* Class = "UIViewController"; title = "AuserStatspointearnedVC"; ObjectID = "9if-m7-eQi"; */
+"9if-m7-eQi.title" = "AuserStatspointearnedVC";
+
+/* Class = "UILabel"; text = "Private Account"; ObjectID = "9x9-Pc-aML"; */
+"9x9-Pc-aML.text" = "Private Account";
+
+/* Class = "UILabel"; text = "3."; ObjectID = "AY5-QA-b8y"; */
+"AY5-QA-b8y.text" = "3.";
+
+/* Class = "UILabel"; text = "Tag people"; ObjectID = "C1F-NL-k4b"; */
+"C1F-NL-k4b.text" = "Tag people";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "CUY-py-MxC"; */
+"CUY-py-MxC.text" = "John Doe";
+
+/* Class = "UILabel"; text = "\"Post a comment to start disscussion\""; ObjectID = "D29-Nl-yL6"; */
+"D29-Nl-yL6.text" = "\"Post a comment to start disscussion\"";
+
+/* Class = "UIViewController"; title = "RankViewCOntroller"; ObjectID = "DUD-gI-DpD"; */
+"DUD-gI-DpD.title" = "RankViewCOntroller";
+
+/* Class = "UILabel"; text = "0 to 9,999 points"; ObjectID = "DW0-Ya-Zb5"; */
+"DW0-Ya-Zb5.text" = "0 to 9,999 points";
+
+/* Class = "UILabel"; text = "2hr ago"; ObjectID = "Ddk-F3-S5E"; */
+"Ddk-F3-S5E.text" = "2hr ago";
+
+/* Class = "UILabel"; text = "This Week"; ObjectID = "Dff-w2-yDe"; */
+"Dff-w2-yDe.text" = "This Week";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "E2v-rp-df8"; */
+"E2v-rp-df8.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "F1y-wK-Y4Y"; */
+"F1y-wK-Y4Y.text" = "John Doe";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "FWS-wf-4DQ"; */
+"FWS-wf-4DQ.text" = "0";
+
+/* Class = "UILabel"; text = "Terms of Service"; ObjectID = "FZT-eR-824"; */
+"FZT-eR-824.text" = "Terms of Service";
+
+/* Class = "UILabel"; text = "It's empty here!"; ObjectID = "FoW-8z-hwg"; */
+"FoW-8z-hwg.text" = "It's empty here!";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "G70-Bq-Agd"; */
+"G70-Bq-Agd.text" = "John Doe";
+
+/* Class = "UIViewController"; title = "NotificationsViewController"; ObjectID = "GXc-ay-0kc"; */
+"GXc-ay-0kc.title" = "NotificationsViewController";
+
+/* Class = "UILabel"; text = "Position in your country"; ObjectID = "Ge4-3N-sxg"; */
+"Ge4-3N-sxg.text" = "Position in your country";
+
+/* Class = "UILabel"; text = "SignUp"; ObjectID = "GgI-Fs-u0z"; */
+"GgI-Fs-u0z.text" = "SignUp";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "Gjl-su-str"; */
+"Gjl-su-str.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Invite Friends"; ObjectID = "GlR-jN-PjM"; */
+"GlR-jN-PjM.text" = "Invite Friends";
+
+/* Class = "UIButton"; normalTitle = "Allow"; ObjectID = "Gqr-Zy-f5b"; */
+"Gqr-Zy-f5b.normalTitle" = "Allow";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "HH6-qW-ipK"; */
+"HH6-qW-ipK.text" = "50";
+
+/* Class = "UILabel"; text = "This Week"; ObjectID = "He7-lu-xzH"; */
+"He7-lu-xzH.text" = "This Week";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "Hpl-D1-5A0"; */
+"Hpl-D1-5A0.title" = "Search";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "Hzv-NG-uCB"; */
+"Hzv-NG-uCB.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "2."; ObjectID = "I7r-i0-Nkc"; */
+"I7r-i0-Nkc.text" = "2.";
+
+/* Class = "UILabel"; text = "1456"; ObjectID = "IEp-qB-vp6"; */
+"IEp-qB-vp6.text" = "1456";
+
+/* Class = "UILabel"; text = "\"Seems like there is no post on your timeline. Follow people to see their post.\""; ObjectID = "J8Y-0n-Cqe"; */
+"J8Y-0n-Cqe.text" = "\"Seems like there is no post on your timeline. Follow people to see their post.\"";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "JnH-6C-b5j"; */
+"JnH-6C-b5j.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "K9V-RV-dws"; */
+"K9V-RV-dws.text" = "John Doe";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "KEe-Ym-BRt"; */
+"KEe-Ym-BRt.text" = "0";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "KkT-px-bH6"; */
+"KkT-px-bH6.text" = "100";
+
+/* Class = "UILabel"; text = "2500"; ObjectID = "Kqh-Cg-VVa"; */
+"Kqh-Cg-VVa.text" = "2500";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "Ktg-hh-SQB"; */
+"Ktg-hh-SQB.text" = "About me";
+
+/* Class = "UILabel"; text = "SignUp"; ObjectID = "LF8-If-0DF"; */
+"LF8-If-0DF.text" = "SignUp";
+
+/* Class = "UITextField"; placeholder = "@john doe"; ObjectID = "Lb6-zh-ODc"; */
+"Lb6-zh-ODc.placeholder" = "@john doe";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "Lh0-pZ-y6h"; */
+"Lh0-pZ-y6h.text" = "About me";
+
+/* Class = "UIButton"; normalTitle = "Following(2)"; ObjectID = "LhZ-Go-xFs"; */
+"LhZ-Go-xFs.normalTitle" = "Following(2)";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Mmh-hU-1oE"; */
+"Mmh-hU-1oE.normalTitle" = "Save";
+
+/* Class = "UIViewController"; title = "SearchlocationViewController"; ObjectID = "Mmi-5l-icu"; */
+"Mmi-5l-icu.title" = "SearchlocationViewController";
+
+/* Class = "UILabel"; text = "This Month"; ObjectID = "Mt1-h0-EG2"; */
+"Mt1-h0-EG2.text" = "This Month";
+
+/* Class = "UILabel"; text = "You will lose points when you unfollow a user & you will no longer see their posts in your timeline."; ObjectID = "MuA-xA-iIK"; */
+"MuA-xA-iIK.text" = "You will lose points when you unfollow a user & you will no longer see their posts in your timeline.";
+
+/* Class = "UILabel"; text = "@john doe"; ObjectID = "NaU-lo-Bz2"; */
+"NaU-lo-Bz2.text" = "@john doe";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "Nct-Qt-kRJ"; */
+"Nct-Qt-kRJ.placeholder" = "Country";
+
+/* Class = "UILabel"; text = "@John Doe"; ObjectID = "NpM-sb-MPt"; */
+"NpM-sb-MPt.text" = "@John Doe";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "O76-2T-lRi"; */
+"O76-2T-lRi.normalTitle" = "Follow";
+
+/* Class = "UIButton"; normalTitle = "Follow you"; ObjectID = "OCN-mi-gpI"; */
+"OCN-mi-gpI.normalTitle" = "Follow you";
+
+/* Class = "UIButton"; normalTitle = "Change Photo"; ObjectID = "OV3-VZ-yTk"; */
+"OV3-VZ-yTk.normalTitle" = "Change Photo";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "OiK-9b-w5d"; */
+"OiK-9b-w5d.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "OkZ-Ma-cYO"; */
+"OkZ-Ma-cYO.text" = "John Doe";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "OnH-9c-FHU"; */
+"OnH-9c-FHU.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."; ObjectID = "OtX-FZ-YWt"; */
+"OtX-FZ-YWt.text" = "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).";
+
+/* Class = "UILabel"; text = "Points Earned Today"; ObjectID = "P8z-Cx-xhS"; */
+"P8z-Cx-xhS.text" = "Points Earned Today";
+
+/* Class = "UIButton"; normalTitle = "Following"; ObjectID = "PBo-ry-Q6o"; */
+"PBo-ry-Q6o.normalTitle" = "Following";
+
+/* Class = "UILabel"; text = "Invite Friends"; ObjectID = "PIZ-gZ-DNo"; */
+"PIZ-gZ-DNo.text" = "Invite Friends";
+
+/* Class = "UILabel"; text = "100,000 to 999,999 points"; ObjectID = "Pdq-yv-S8w"; */
+"Pdq-yv-S8w.text" = "100,000 to 999,999 points";
+
+/* Class = "UILabel"; text = "Neophyte"; ObjectID = "Phg-g7-I0H"; */
+"Phg-g7-I0H.text" = "Neophyte";
+
+/* Class = "UIViewController"; title = "SearchViewCOntroller"; ObjectID = "Q8d-mK-hG3"; */
+"Q8d-mK-hG3.title" = "SearchViewCOntroller";
+
+/* Class = "UIViewController"; title = "OtpverificationViewController"; ObjectID = "QGA-KL-saB"; */
+"QGA-KL-saB.title" = "OtpverificationViewController";
+
+/* Class = "UINavigationItem"; title = "How Viegram Works"; ObjectID = "QL3-S0-ah2"; */
+"QL3-S0-ah2.title" = "How Viegram Works";
+
+/* Class = "UILabel"; text = "Legend(icon guide)"; ObjectID = "QLO-8Q-bf7"; */
+"QLO-8Q-bf7.text" = "Legend(icon guide)";
+
+/* Class = "UILabel"; text = "No notification"; ObjectID = "Qbl-WD-wN5"; */
+"Qbl-WD-wN5.text" = "No notification";
+
+/* Class = "UILabel"; text = "@John Doe"; ObjectID = "Qfb-Mg-Uur"; */
+"Qfb-Mg-Uur.text" = "@John Doe";
+
+/* Class = "UIButton"; normalTitle = "Leaders"; ObjectID = "Qg7-JQ-kgb"; */
+"Qg7-JQ-kgb.normalTitle" = "Leaders";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QpQ-bo-EFG"; */
+"QpQ-bo-EFG.text" = "Label";
+
+/* Class = "UIViewController"; title = "AuserCommentViewController"; ObjectID = "R4j-B4-wXo"; */
+"R4j-B4-wXo.title" = "AuserCommentViewController";
+
+/* Class = "UIButton"; normalTitle = "ChangePassword"; ObjectID = "RVg-te-d0a"; */
+"RVg-te-d0a.normalTitle" = "ChangePassword";
+
+/* Class = "UILabel"; text = "1456"; ObjectID = "RxH-gK-e2B"; */
+"RxH-gK-e2B.text" = "1456";
+
+/* Class = "UILabel"; text = "Expand the menu bar at the bottom of your screen to gain access to your account icons,and visit the options "; ObjectID = "S0P-Py-asH"; */
+"S0P-Py-asH.text" = "Expand the menu bar at the bottom of your screen to gain access to your account icons,and visit the options ";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "S3N-hC-mgJ"; */
+"S3N-hC-mgJ.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Only People you approve can see your photos when your account is private"; ObjectID = "S4y-OY-NvM"; */
+"S4y-OY-NvM.text" = "Only People you approve can see your photos when your account is private";
+
+/* Class = "UINavigationItem"; title = "Options"; ObjectID = "S8V-zb-mjr"; */
+"S8V-zb-mjr.title" = "Options";
+
+/* Class = "UILabel"; text = "Congratulation"; ObjectID = "SOp-pe-HJw"; */
+"SOp-pe-HJw.text" = "Congratulation";
+
+/* Class = "UILabel"; text = "8500"; ObjectID = "SUR-cI-zIY"; */
+"SUR-cI-zIY.text" = "8500";
+
+/* Class = "UILabel"; text = "Restricting a follower will block them from seening specific posts that you choose to exclude them from."; ObjectID = "T0A-40-NBp"; */
+"T0A-40-NBp.text" = "Restricting a follower will block them from seening specific posts that you choose to exclude them from.";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "T2S-TX-J70"; */
+"T2S-TX-J70.text" = "About me";
+
+/* Class = "UILabel"; text = "4."; ObjectID = "TGd-ZN-Idx"; */
+"TGd-ZN-Idx.text" = "4.";
+
+/* Class = "UILabel"; text = "Reposts"; ObjectID = "THL-JO-L9F"; */
+"THL-JO-L9F.text" = "Reposts";
+
+/* Class = "UIViewController"; title = "Update_passViewController"; ObjectID = "Tad-gm-Wt0"; */
+"Tad-gm-Wt0.title" = "Update_passViewController";
+
+/* Class = "UILabel"; text = "Receive notifications"; ObjectID = "Td3-F3-PuN"; */
+"Td3-F3-PuN.text" = "Receive notifications";
+
+/* Class = "UILabel"; text = "Restricted"; ObjectID = "Tvr-n4-xR8"; */
+"Tvr-n4-xR8.text" = "Restricted";
+
+/* Class = "UILabel"; text = "John deo started following you"; ObjectID = "UBP-WZ-yq5"; */
+"UBP-WZ-yq5.text" = "John deo started following you";
+
+/* Class = "UIButton"; normalTitle = "My Stats"; ObjectID = "UD5-NZ-7N9"; */
+"UD5-NZ-7N9.normalTitle" = "My Stats";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "Uqy-ol-BVQ"; */
+"Uqy-ol-BVQ.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Icon"; ObjectID = "V0M-cY-hSt"; */
+"V0M-cY-hSt.text" = "Icon";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "V3a-Tu-33Y"; */
+"V3a-Tu-33Y.text" = "John Doe";
+
+/* Class = "UIButton"; normalTitle = "Follow you"; ObjectID = "VCS-gx-uii"; */
+"VCS-gx-uii.normalTitle" = "Follow you";
+
+/* Class = "UILabel"; text = "8,500"; ObjectID = "Vhx-N7-JBt"; */
+"Vhx-N7-JBt.text" = "8,500";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "W5X-T9-NA6"; */
+"W5X-T9-NA6.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Neophyte"; ObjectID = "WZR-i0-852"; */
+"WZR-i0-852.text" = "Neophyte";
+
+/* Class = "UILabel"; text = "8,500"; ObjectID = "X2D-Ec-kdW"; */
+"X2D-Ec-kdW.text" = "8,500";
+
+/* Class = "UILabel"; text = "This is a private account  Follow this user to see their photos"; ObjectID = "X4d-dN-TBV"; */
+"X4d-dN-TBV.text" = "This is a private account  Follow this user to see their photos";
+
+/* Class = "UILabel"; text = "8500"; ObjectID = "XE6-x7-VDO"; */
+"XE6-x7-VDO.text" = "8500";
+
+/* Class = "UILabel"; text = "111,111,111,111"; ObjectID = "XLi-n0-cws"; */
+"XLi-n0-cws.text" = "111,111,111,111";
+
+/* Class = "UIButton"; normalTitle = "Follower(2)"; ObjectID = "XSs-PT-o8P"; */
+"XSs-PT-o8P.normalTitle" = "Follower(2)";
+
+/* Class = "UITextField"; placeholder = "Display Name"; ObjectID = "XVH-TD-oUn"; */
+"XVH-TD-oUn.placeholder" = "Display Name";
+
+/* Class = "UILabel"; text = "@John Doe"; ObjectID = "Xft-QJ-jS8"; */
+"Xft-QJ-jS8.text" = "@John Doe";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Xg2-9h-bKM"; */
+"Xg2-9h-bKM.normalTitle" = "SUBMIT";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "Xl6-YC-Jvi"; */
+"Xl6-YC-Jvi.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Points Earned"; ObjectID = "Xx1-5z-qAR"; */
+"Xx1-5z-qAR.text" = "Points Earned";
+
+/* Class = "UIViewController"; title = "AuserProfileViewController"; ObjectID = "Y4L-6r-5xZ"; */
+"Y4L-6r-5xZ.title" = "AuserProfileViewController";
+
+/* Class = "UILabel"; text = "Nice pic:)"; ObjectID = "YZE-qa-5I5"; */
+"YZE-qa-5I5.text" = "Nice pic:)";
+
+/* Class = "UILabel"; text = "8500"; ObjectID = "YeX-Jl-hJG"; */
+"YeX-Jl-hJG.text" = "8500";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "Ynd-Ao-ZZv"; */
+"Ynd-Ao-ZZv.normalTitle" = "SIGN UP";
+
+/* Class = "UINavigationItem"; title = "Follow People"; ObjectID = "YqJ-e5-eM2"; */
+"YqJ-e5-eM2.title" = "Follow People";
+
+/* Class = "UILabel"; text = "@John Doe"; ObjectID = "YqS-JG-ASm"; */
+"YqS-JG-ASm.text" = "@John Doe";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "Z14-K6-brn"; */
+"Z14-K6-brn.placeholder" = "Current Password";
+
+/* Class = "UILabel"; text = "Bonafide"; ObjectID = "ZYg-nJ-1UM"; */
+"ZYg-nJ-1UM.text" = "Bonafide";
+
+/* Class = "UILabel"; text = "1 million poits & above"; ObjectID = "ZpE-bq-Q5I"; */
+"ZpE-bq-Q5I.text" = "1 million poits & above";
+
+/* Class = "UILabel"; text = "Are you sure want to unfollow@john deo"; ObjectID = "ZzC-p4-GBi"; */
+"ZzC-p4-GBi.text" = "Are you sure want to unfollow@john deo";
+
+/* Class = "UILabel"; text = "8500"; ObjectID = "aEU-qI-zen"; */
+"aEU-qI-zen.text" = "8500";
+
+/* Class = "UILabel"; text = "A user who has fabove 1 million"; ObjectID = "aIV-Aw-Dcd"; */
+"aIV-Aw-Dcd.text" = "A user who has fabove 1 million";
+
+/* Class = "UITextField"; placeholder = "@john doe"; ObjectID = "aKW-Tx-G9N"; */
+"aKW-Tx-G9N.placeholder" = "@john doe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aNT-w2-Wum"; */
+"aNT-w2-Wum.text" = "Label";
+
+/* Class = "UILabel"; text = "Icon"; ObjectID = "aR1-Ug-qsW"; */
+"aR1-Ug-qsW.text" = "Icon";
+
+/* Class = "UILabel"; text = "Legand(icon guide)"; ObjectID = "amy-oT-CRF"; */
+"amy-oT-CRF.text" = "Legand(icon guide)";
+
+/* Class = "UILabel"; text = "By Signing up you agree to our"; ObjectID = "asD-qW-YoY"; */
+"asD-qW-YoY.text" = "By Signing up you agree to our";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bX8-zR-hpT"; */
+"bX8-zR-hpT.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "bYp-u0-ydZ"; */
+"bYp-u0-ydZ.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "@John Doe"; ObjectID = "bYq-BU-eHM"; */
+"bYq-BU-eHM.text" = "@John Doe";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "bo3-S4-nIZ"; */
+"bo3-S4-nIZ.normalTitle" = "View";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium "; ObjectID = "bpb-kd-Nuk"; */
+"bpb-kd-Nuk.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium ";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "bxp-ka-Oxp"; */
+"bxp-ka-Oxp.text" = "Logout";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bya-fv-rHr"; */
+"bya-fv-rHr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Follow you"; ObjectID = "c8T-uv-UnU"; */
+"c8T-uv-UnU.normalTitle" = "Follow you";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "cP2-p5-AfO"; */
+"cP2-p5-AfO.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Position amongest followers"; ObjectID = "cS9-Ux-Xdw"; */
+"cS9-Ux-Xdw.text" = "Position amongest followers";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cWA-YW-a5j"; */
+"cWA-YW-a5j.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Following(2)"; ObjectID = "cc6-64-Hk0"; */
+"cc6-64-Hk0.normalTitle" = "Following(2)";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cgr-5m-PH5"; */
+"cgr-5m-PH5.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "cou-g4-mal"; */
+"cou-g4-mal.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "#Caption"; ObjectID = "crT-4k-QSH"; */
+"crT-4k-QSH.text" = "#Caption";
+
+/* Class = "UILabel"; text = "Viewgram position"; ObjectID = "ctv-QK-R07"; */
+"ctv-QK-R07.text" = "Viewgram position";
+
+/* Class = "UIButton"; normalTitle = "Unfollow"; ObjectID = "cwe-pF-eCZ"; */
+"cwe-pF-eCZ.normalTitle" = "Unfollow";
+
+/* Class = "UILabel"; text = "@John Doe"; ObjectID = "cxQ-ZZ-gEM"; */
+"cxQ-ZZ-gEM.text" = "@John Doe";
+
+/* Class = "UILabel"; text = "No photos in your profile yet!"; ObjectID = "d0a-g4-a8l"; */
+"d0a-g4-a8l.text" = "No photos in your profile yet!";
+
+/* Class = "UIButton"; normalTitle = "Followers(2)"; ObjectID = "d2R-F9-lyV"; */
+"d2R-F9-lyV.normalTitle" = "Followers(2)";
+
+/* Class = "UIViewController"; title = "HowWorksViewController"; ObjectID = "d46-Es-g87"; */
+"d46-Es-g87.title" = "HowWorksViewController";
+
+/* Class = "UINavigationItem"; title = "OTP Verification"; ObjectID = "dFg-UO-fWR"; */
+"dFg-UO-fWR.title" = "OTP Verification";
+
+/* Class = "UILabel"; text = "Bonafide"; ObjectID = "dzc-JI-WrM"; */
+"dzc-JI-WrM.text" = "Bonafide";
+
+/* Class = "UILabel"; text = "Viegram will not notify @jondeo that you've restricted them"; ObjectID = "e0D-uH-w2g"; */
+"e0D-uH-w2g.text" = "Viegram will not notify @jondeo that you've restricted them";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "e7t-lf-09w"; */
+"e7t-lf-09w.text" = "Info";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "eOf-ED-I9c"; */
+"eOf-ED-I9c.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Socialite"; ObjectID = "eSu-XR-L5T"; */
+"eSu-XR-L5T.text" = "Socialite";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "eeA-Lr-qmb"; */
+"eeA-Lr-qmb.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "ejS-SO-oJd"; */
+"ejS-SO-oJd.text" = "Today";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ejp-49-mRG"; */
+"ejp-49-mRG.text" = "0";
+
+/* Class = "UIViewController"; title = "TermsconditionsViewController"; ObjectID = "f5C-XY-JCW"; */
+"f5C-XY-JCW.title" = "TermsconditionsViewController";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "fIr-kB-Gnl"; */
+"fIr-kB-Gnl.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Account Settings"; ObjectID = "fKW-9k-zRR"; */
+"fKW-9k-zRR.text" = "Account Settings";
+
+/* Class = "UIButton"; normalTitle = "My Ranking"; ObjectID = "fOf-Lr-h26"; */
+"fOf-Lr-h26.normalTitle" = "My Ranking";
+
+/* Class = "UILabel"; text = "You've earned 2,500 points for signing up. Share photos,eran points & have fun!"; ObjectID = "fYa-TX-WQZ"; */
+"fYa-TX-WQZ.text" = "You've earned 2,500 points for signing up. Share photos,eran points & have fun!";
+
+/* Class = "UILabel"; text = "Tags"; ObjectID = "fah-sG-79A"; */
+"fah-sG-79A.text" = "Tags";
+
+/* Class = "UILabel"; text = "Overall"; ObjectID = "fnN-6B-a5t"; */
+"fnN-6B-a5t.text" = "Overall";
+
+/* Class = "UIButton"; normalTitle = "Following"; ObjectID = "fsg-kZ-uAs"; */
+"fsg-kZ-uAs.normalTitle" = "Following";
+
+/* Class = "UILabel"; text = "Points Earned Today"; ObjectID = "gKs-Lp-zG8"; */
+"gKs-Lp-zG8.text" = "Points Earned Today";
+
+/* Class = "UILabel"; text = "A user who has from 100,000 to 99,999 points"; ObjectID = "gQO-la-t5P"; */
+"gQO-la-t5P.text" = "A user who has from 100,000 to 99,999 points";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "gev-qK-nNM"; */
+"gev-qK-nNM.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "This Year"; ObjectID = "gez-pE-gG1"; */
+"gez-pE-gG1.text" = "This Year";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "gr3-Lp-Son"; */
+"gr3-Lp-Son.text" = "Today";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "h1Z-sl-OuJ"; */
+"h1Z-sl-OuJ.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Stats"; ObjectID = "hAR-fj-Auw"; */
+"hAR-fj-Auw.title" = "Stats";
+
+/* Class = "UILabel"; text = "Don't have an account yet?"; ObjectID = "hIc-JE-AVa"; */
+"hIc-JE-AVa.text" = "Don't have an account yet?";
+
+/* Class = "UILabel"; text = "@John Doe"; ObjectID = "hM3-Am-Hdv"; */
+"hM3-Am-Hdv.text" = "@John Doe";
+
+/* Class = "UIViewController"; title = "StatusViewController"; ObjectID = "hZ0-Uj-pXv"; */
+"hZ0-Uj-pXv.title" = "StatusViewController";
+
+/* Class = "UIButton"; normalTitle = "Earning Points"; ObjectID = "hb3-Li-zuN"; */
+"hb3-Li-zuN.normalTitle" = "Earning Points";
+
+/* Class = "UITextView"; text = "Write a comment"; ObjectID = "iAZ-N2-6rq"; */
+"iAZ-N2-6rq.text" = "Write a comment";
+
+/* Class = "UILabel"; text = "2 hours"; ObjectID = "ixE-fs-Wjk"; */
+"ixE-fs-Wjk.text" = "2 hours";
+
+/* Class = "UIViewController"; title = "LanguageViewController"; ObjectID = "j33-RB-OV1"; */
+"j33-RB-OV1.title" = "LanguageViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jIO-Jp-IFN"; */
+"jIO-Jp-IFN.text" = "Label";
+
+/* Class = "UILabel"; text = "How to earn ponits"; ObjectID = "jKk-i4-I5a"; */
+"jKk-i4-I5a.text" = "How to earn ponits";
+
+/* Class = "UINavigationItem"; title = "Comments"; ObjectID = "jO8-c3-uua"; */
+"jO8-c3-uua.title" = "Comments";
+
+/* Class = "UINavigationItem"; title = "Update Password"; ObjectID = "jWf-gT-XFf"; */
+"jWf-gT-XFf.title" = "Update Password";
+
+/* Class = "UILabel"; text = "Share your Photos, earn points, gain popularity and have fun competing with friends"; ObjectID = "jl6-G0-ZfK"; */
+"jl6-G0-ZfK.text" = "Share your Photos, earn points, gain popularity and have fun competing with friends";
+
+/* Class = "UILabel"; text = "photos"; ObjectID = "jm9-Hu-hK3"; */
+"jm9-Hu-hK3.text" = "photos";
+
+/* Class = "UIButton"; normalTitle = "UNFOLLOW"; ObjectID = "jw8-0P-tnU"; */
+"jw8-0P-tnU.normalTitle" = "UNFOLLOW";
+
+/* Class = "UILabel"; text = "This Year"; ObjectID = "k1S-DI-Lv6"; */
+"k1S-DI-Lv6.text" = "This Year";
+
+/* Class = "UILabel"; text = "A user who has from 10,000 to 99,999 points"; ObjectID = "kLN-xd-x6K"; */
+"kLN-xd-x6K.text" = "A user who has from 10,000 to 99,999 points";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "kt6-Lx-5yA"; */
+"kt6-Lx-5yA.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "l7l-fu-yEU"; */
+"l7l-fu-yEU.text" = "Info";
+
+/* Class = "UILabel"; text = "Add Location"; ObjectID = "lHK-E2-ThD"; */
+"lHK-E2-ThD.text" = "Add Location";
+
+/* Class = "UILabel"; text = "111,111,111,111"; ObjectID = "lHn-QM-Ppa"; */
+"lHn-QM-Ppa.text" = "111,111,111,111";
+
+/* Class = "UILabel"; text = "Viegram is a point driven photo - sharing app that allows you to share photos,earn points interacting,gain popularity and complete against friends in climbing a socail status hierachy.It is an innovative photos,receiving likes,comments and more,thereby working your way to a greater social status and having your profile displayed on users devices all over the world"; ObjectID = "lYI-9H-1pR"; */
+"lYI-9H-1pR.text" = "Viegram is a point driven photo - sharing app that allows you to share photos,earn points interacting,gain popularity and complete against friends in climbing a socail status hierachy.It is an innovative photos,receiving likes,comments and more,thereby working your way to a greater social status and having your profile displayed on users devices all over the world";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "mLa-yQ-qrO"; */
+"mLa-yQ-qrO.text" = "Comments";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "mWr-YP-g4e"; */
+"mWr-YP-g4e.title" = "Notifications";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "n8H-mQ-liE"; */
+"n8H-mQ-liE.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "It's empty here!"; ObjectID = "nRX-DF-GRU"; */
+"nRX-DF-GRU.text" = "It's empty here!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ne9-ty-306"; */
+"ne9-ty-306.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "nnP-GV-jUz"; */
+"nnP-GV-jUz.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Points Earned"; ObjectID = "nsc-97-CBN"; */
+"nsc-97-CBN.text" = "Points Earned";
+
+/* Class = "UINavigationItem"; title = "Ranking"; ObjectID = "o1W-1U-x81"; */
+"o1W-1U-x81.title" = "Ranking";
+
+/* Class = "UILabel"; text = "A user who has from 0 to 9,999 points"; ObjectID = "oBC-yf-i4p"; */
+"oBC-yf-i4p.text" = "A user who has from 0 to 9,999 points";
+
+/* Class = "UILabel"; text = "Please enter OTP sent to your email address"; ObjectID = "od1-jD-P8L"; */
+"od1-jD-P8L.text" = "Please enter OTP sent to your email address";
+
+/* Class = "UILabel"; text = "Report a problem"; ObjectID = "ooy-06-fV7"; */
+"ooy-06-fV7.text" = "Report a problem";
+
+/* Class = "UILabel"; text = "8,500"; ObjectID = "ory-Jj-ryc"; */
+"ory-Jj-ryc.text" = "8,500";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "pY2-w9-pgr"; */
+"pY2-w9-pgr.normalTitle" = "View";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "phG-9r-zsB"; */
+"phG-9r-zsB.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "@john doe"; ObjectID = "piH-wV-MGc"; */
+"piH-wV-MGc.text" = "@john doe";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "q2m-ua-dG0"; */
+"q2m-ua-dG0.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Unfollow"; ObjectID = "qYn-x3-MoA"; */
+"qYn-x3-MoA.normalTitle" = "Unfollow";
+
+/* Class = "UITextView"; text = "Add Caption"; ObjectID = "qaM-Cd-M4C"; */
+"qaM-Cd-M4C.text" = "Add Caption";
+
+/* Class = "UILabel"; text = "Follow requests"; ObjectID = "qdQ-EX-K54"; */
+"qdQ-EX-K54.text" = "Follow requests";
+
+/* Class = "UILabel"; text = "10,000 to 99,999 points"; ObjectID = "rR9-UD-j2G"; */
+"rR9-UD-j2G.text" = "10,000 to 99,999 points";
+
+/* Class = "UILabel"; text = "Viewgram's social status hierachy consists of 4 levels:"; ObjectID = "rde-JH-DGj"; */
+"rde-JH-DGj.text" = "Viewgram's social status hierachy consists of 4 levels:";
+
+/* Class = "UILabel"; text = "Neophate"; ObjectID = "rxT-aX-GSt"; */
+"rxT-aX-GSt.text" = "Neophate";
+
+/* Class = "UIViewController"; title = "FollowpeopleViewController"; ObjectID = "sCo-2L-riu"; */
+"sCo-2L-riu.title" = "FollowpeopleViewController";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "sTH-uq-ZAp"; */
+"sTH-uq-ZAp.text" = "John Doe";
+
+/* Class = "UILabel"; text = "You loose the relevant amount of points when losing a follower and when a like on your photo or comment is retrated."; ObjectID = "t5y-QM-i9n"; */
+"t5y-QM-i9n.text" = "You loose the relevant amount of points when losing a follower and when a like on your photo or comment is retrated.";
+
+/* Class = "UILabel"; text = "Socialite"; ObjectID = "uDx-Pg-6d4"; */
+"uDx-Pg-6d4.text" = "Socialite";
+
+/* Class = "UILabel"; text = "Nice pic:)"; ObjectID = "uXB-Nw-oSU"; */
+"uXB-Nw-oSU.text" = "Nice pic:)";
+
+/* Class = "UILabel"; text = "No results found"; ObjectID = "uff-Cs-gXA"; */
+"uff-Cs-gXA.text" = "No results found";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "unZ-w9-vp5"; */
+"unZ-w9-vp5.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "v2m-Lq-zt8"; */
+"v2m-Lq-zt8.text" = "0";
+
+/* Class = "UILabel"; text = "Likes"; ObjectID = "vgr-fr-rmP"; */
+"vgr-fr-rmP.text" = "Likes";
+
+/* Class = "UINavigationItem"; title = "My Stats"; ObjectID = "vpK-hg-ne2"; */
+"vpK-hg-ne2.title" = "My Stats";
+
+/* Class = "UILabel"; text = "\"Seems like you have no Followers. Invite friends to follow you.\""; ObjectID = "vpU-SH-bol"; */
+"vpU-SH-bol.text" = "\"Seems like you have no Followers. Invite friends to follow you.\"";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "w1Z-hV-NoT"; */
+"w1Z-hV-NoT.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "wRd-s2-YaJ"; */
+"wRd-s2-YaJ.normalTitle" = "Follow";
+
+/* Class = "UIButton"; normalTitle = "Restrict"; ObjectID = "wSA-q6-UUG"; */
+"wSA-q6-UUG.normalTitle" = "Restrict";
+
+/* Class = "UILabel"; text = "Neophyte"; ObjectID = "woY-ZC-IHY"; */
+"woY-ZC-IHY.text" = "Neophyte";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "x3e-MP-Bsr"; */
+"x3e-MP-Bsr.text" = "5";
+
+/* Class = "UINavigationItem"; title = "Forgot Password"; ObjectID = "xBf-rX-aPA"; */
+"xBf-rX-aPA.title" = "Forgot Password";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "xOT-r0-aW3"; */
+"xOT-r0-aW3.text" = "John Doe";
+
+/* Class = "UIViewController"; title = "AnotherUserStatsVC"; ObjectID = "xOp-G9-vlV"; */
+"xOp-G9-vlV.title" = "AnotherUserStatsVC";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "xaQ-6Y-p8Q"; */
+"xaQ-6Y-p8Q.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "SignUp"; ObjectID = "xeK-aI-QTi"; */
+"xeK-aI-QTi.text" = "SignUp";
+
+/* Class = "UILabel"; text = "photos"; ObjectID = "xmf-7Z-y4i"; */
+"xmf-7Z-y4i.text" = "photos";
+
+/* Class = "UIButton"; normalTitle = "Status Scores"; ObjectID = "xrH-re-nf5"; */
+"xrH-re-nf5.normalTitle" = "Status Scores";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "yHn-Gg-Qrk"; */
+"yHn-Gg-Qrk.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "yW1-15-2oG"; */
+"yW1-15-2oG.text" = "Language";
+
+/* Class = "UILabel"; text = "Viegram Position"; ObjectID = "yjN-i1-khx"; */
+"yjN-i1-khx.text" = "Viegram Position";
+
+/* Class = "UINavigationItem"; title = "Terms of Service"; ObjectID = "yuE-b1-LWM"; */
+"yuE-b1-LWM.title" = "Terms of Service";
+
+/* Class = "UILabel"; text = "@john doe"; ObjectID = "yxz-Za-qys"; */
+"yxz-Za-qys.text" = "@john doe";
+
+/* Class = "UILabel"; text = "Viegram Leader"; ObjectID = "z70-Ta-XOO"; */
+"z70-Ta-XOO.text" = "Viegram Leader";
+
+/* Class = "UINavigationItem"; title = "Language"; ObjectID = "zEN-c0-uru"; */
+"zEN-c0-uru.title" = "Language";
+
+/* Class = "UILabel"; text = "Overall"; ObjectID = "zJF-Ab-QN5"; */
+"zJF-Ab-QN5.text" = "Overall";
+
+/* Class = "UIViewController"; title = "AUserFollowerViewController"; ObjectID = "zRf-9Y-KNC"; */
+"zRf-9Y-KNC.title" = "AUserFollowerViewController";
+
+/* Class = "UIButton"; normalTitle = "Unfollow"; ObjectID = "zbz-0J-DoA"; */
+"zbz-0J-DoA.normalTitle" = "Unfollow";
+
+/* Class = "UIViewController"; title = "Changesettings"; ObjectID = "zwu-eo-LgC"; */
+"zwu-eo-LgC.title" = "Changesettings";

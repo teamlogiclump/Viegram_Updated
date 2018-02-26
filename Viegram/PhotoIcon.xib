@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PhotoIcon" customModule="Viegram" customModuleProvider="target">
+            <connections>
+                <outlet property="btnCount" destination="KFT-sL-Fuk" id="oPh-Ur-erI"/>
+                <outlet property="imgViewLeft" destination="l2f-Uq-ba2" id="QjQ-4R-gFi"/>
+                <outlet property="imgViewRight" destination="6zB-YT-XKo" id="ktM-OV-fcY"/>
+                <outlet property="width" destination="r1j-1Y-U3c" id="sIa-cM-yba"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="81" height="72"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ysr-iU-WRG">
+                    <rect key="frame" x="0.0" y="0.0" width="81" height="72"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="imgCheckFilled" translatesAutoresizingMaskIntoConstraints="NO" id="l2f-Uq-ba2">
+                            <rect key="frame" x="0.0" y="0.0" width="25" height="72"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="25" id="r1j-1Y-U3c"/>
+                            </constraints>
+                        </imageView>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" image="imgLoginBg" translatesAutoresizingMaskIntoConstraints="NO" id="6zB-YT-XKo">
+                            <rect key="frame" x="25" y="0.0" width="56" height="72"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="6zB-YT-XKo" secondAttribute="trailing" id="3zb-gR-lO6"/>
+                        <constraint firstItem="6zB-YT-XKo" firstAttribute="leading" secondItem="l2f-Uq-ba2" secondAttribute="trailing" id="5A9-oY-kId"/>
+                        <constraint firstItem="6zB-YT-XKo" firstAttribute="top" secondItem="ysr-iU-WRG" secondAttribute="top" id="6lq-L2-SCV"/>
+                        <constraint firstItem="l2f-Uq-ba2" firstAttribute="top" secondItem="ysr-iU-WRG" secondAttribute="top" id="Eh6-aW-ffd"/>
+                        <constraint firstItem="l2f-Uq-ba2" firstAttribute="leading" secondItem="ysr-iU-WRG" secondAttribute="leading" id="JxX-vZ-Y9e"/>
+                        <constraint firstAttribute="bottom" secondItem="l2f-Uq-ba2" secondAttribute="bottom" id="bAP-NK-VXe"/>
+                        <constraint firstAttribute="bottom" secondItem="6zB-YT-XKo" secondAttribute="bottom" id="d3n-MM-8NV"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KFT-sL-Fuk">
+                    <rect key="frame" x="0.0" y="0.0" width="81" height="72"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="btnAllImagetapped:" destination="-1" eventType="touchUpInside" id="kKu-T5-vpH"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="ysr-iU-WRG" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="9DJ-5g-3id"/>
+                <constraint firstAttribute="trailing" secondItem="KFT-sL-Fuk" secondAttribute="trailing" id="9HJ-HC-cAz"/>
+                <constraint firstAttribute="bottom" secondItem="KFT-sL-Fuk" secondAttribute="bottom" id="DxS-8U-Brm"/>
+                <constraint firstItem="KFT-sL-Fuk" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="FdR-3J-Oa7"/>
+                <constraint firstAttribute="bottom" secondItem="ysr-iU-WRG" secondAttribute="bottom" id="hOK-iP-p4N"/>
+                <constraint firstAttribute="trailing" secondItem="ysr-iU-WRG" secondAttribute="trailing" id="icc-TA-9fK"/>
+                <constraint firstItem="KFT-sL-Fuk" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="s7G-tG-Uhj"/>
+                <constraint firstItem="ysr-iU-WRG" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="xQi-Aa-SH7"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-308.5" y="-178"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="imgCheckFilled" width="20" height="20"/>
+        <image name="imgLoginBg" width="540" height="960"/>
+    </resources>
+</document>
